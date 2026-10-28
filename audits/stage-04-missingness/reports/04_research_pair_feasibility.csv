@@ -1,0 +1,11 @@
+candidate_question,variable_a,variable_b,rows_both_available,pct_of_all_rows_both_available,entities_with_at_least_one_pair,years_with_at_least_one_pair,note
+GDP level and GDP growth,GDP,GDP Growth (%),14484,100.0,261,65,Coverage screen only; not proof of conceptual validity or causality.
+GDP and total CO2 emissions,GDP,Annual CO2 emissions,10899,75.249,202,64,Coverage screen only; not proof of conceptual validity or causality.
+GDP and CO2 emissions per capita,GDP,CO2 emissions per capita,10899,75.249,202,64,Coverage screen only; not proof of conceptual validity or causality.
+Energy per capita and total CO2 emissions,energy_per_capita,Annual CO2 emissions,8978,61.986,196,60,Coverage screen only; not proof of conceptual validity or causality.
+CO2 level and CO2 growth,Annual CO2 emissions,CO2 Growth (%),8794,60.715,195,64,Coverage screen only; not proof of conceptual validity or causality.
+Energy per GDP and total CO2 emissions,energy_per_gdp,Annual CO2 emissions,7386,50.994,162,58,Coverage screen only; not proof of conceptual validity or causality.
+Electricity generation and low-carbon electricity share,electricity_generation,low_carbon_share_elec,6056,41.812,199,41,Coverage screen only; not proof of conceptual validity or causality.
+Electricity carbon intensity and low-carbon share,carbon_intensity_elec,low_carbon_share_elec,5276,36.426,199,36,Coverage screen only; not proof of conceptual validity or causality.
+GDP and greenhouse-gas emissions,greenhouse_gas_emissions,GDP,4976,34.355,199,26,Coverage screen only; not proof of conceptual validity or causality.
+Fossil and low-carbon share of energy,fossil_share_energy,low_carbon_share_energy,4166,28.763,78,60,Coverage screen only; not proof of conceptual validity or causality.

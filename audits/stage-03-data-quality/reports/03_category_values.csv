@@ -1,0 +1,538 @@
+column,value,count,has_leading_or_trailing_whitespace,lowercase_normalized_value
+Country Name,World,65,False,world
+Country Name,Upper middle income,65,False,upper middle income
+Country Name,High income,65,False,high income
+Country Name,Heavily indebted poor countries (HIPC),65,False,heavily indebted poor countries (hipc)
+Country Name,IBRD only,65,False,ibrd only
+Country Name,IDA & IBRD total,65,False,ida & ibrd total
+Country Name,IDA total,65,False,ida total
+Country Name,IDA blend,65,False,ida blend
+Country Name,IDA only,65,False,ida only
+Country Name,East Asia & Pacific (excluding high income),65,False,east asia & pacific (excluding high income)
+Country Name,Early-demographic dividend,65,False,early-demographic dividend
+Country Name,East Asia & Pacific,65,False,east asia & pacific
+Country Name,Europe & Central Asia,65,False,europe & central asia
+Country Name,Euro area,65,False,euro area
+Country Name,European Union,65,False,european union
+Country Name,Zambia,65,False,zambia
+Country Name,Zimbabwe,65,False,zimbabwe
+Country Name,Africa Eastern and Southern,65,False,africa eastern and southern
+Country Name,Africa Western and Central,65,False,africa western and central
+Country Name,Caribbean small states,65,False,caribbean small states
+Country Name,United States,65,False,united states
+Country Name,Uruguay,65,False,uruguay
+Country Name,"Venezuela, RB",65,False,"venezuela, rb"
+Country Name,Ecuador,65,False,ecuador
+Country Name,"Egypt, Arab Rep.",65,False,"egypt, arab rep."
+Country Name,Spain,65,False,spain
+Country Name,Ethiopia,65,False,ethiopia
+Country Name,Denmark,65,False,denmark
+Country Name,Germany,65,False,germany
+Country Name,Dominican Republic,65,False,dominican republic
+Country Name,Chad,65,False,chad
+Country Name,"Congo, Dem. Rep.",65,False,"congo, dem. rep."
+Country Name,"Congo, Rep.",65,False,"congo, rep."
+Country Name,Costa Rica,65,False,costa rica
+Country Name,Cameroon,65,False,cameroon
+Country Name,Canada,65,False,canada
+Country Name,Switzerland,65,False,switzerland
+Country Name,Chile,65,False,chile
+Country Name,China,65,False,china
+Country Name,Cote d'Ivoire,65,False,cote d'ivoire
+Country Name,Colombia,65,False,colombia
+Country Name,Iceland,65,False,iceland
+Country Name,India,65,False,india
+Country Name,Ireland,65,False,ireland
+Country Name,"Iran, Islamic Rep.",65,False,"iran, islamic rep."
+Country Name,Iraq,65,False,iraq
+Country Name,Israel,65,False,israel
+Country Name,Italy,65,False,italy
+Country Name,Guatemala,65,False,guatemala
+Country Name,Guyana,65,False,guyana
+Country Name,Haiti,65,False,haiti
+Country Name,"Hong Kong SAR, China",65,False,"hong kong sar, china"
+Country Name,Honduras,65,False,honduras
+Country Name,United Kingdom,65,False,united kingdom
+Country Name,Ghana,65,False,ghana
+Country Name,Greece,65,False,greece
+Country Name,Finland,65,False,finland
+Country Name,Fiji,65,False,fiji
+Country Name,Eswatini,65,False,eswatini
+Country Name,France,65,False,france
+Country Name,Gabon,65,False,gabon
+Country Name,Tanzania,65,False,tanzania
+Country Name,Trinidad and Tobago,65,False,trinidad and tobago
+Country Name,Turkiye,65,False,turkiye
+Country Name,Uganda,65,False,uganda
+Country Name,Sweden,65,False,sweden
+Country Name,South Africa,65,False,south africa
+Country Name,Togo,65,False,togo
+Country Name,Thailand,65,False,thailand
+Country Name,"Somalia, Fed. Rep.",65,False,"somalia, fed. rep."
+Country Name,Seychelles,65,False,seychelles
+Country Name,Suriname,65,False,suriname
+Country Name,Saudi Arabia,65,False,saudi arabia
+Country Name,Sudan,65,False,sudan
+Country Name,Senegal,65,False,senegal
+Country Name,Singapore,65,False,singapore
+Country Name,St. Vincent and the Grenadines,65,False,st. vincent and the grenadines
+Country Name,Sierra Leone,65,False,sierra leone
+Country Name,Malaysia,65,False,malaysia
+Country Name,Mauritius,65,False,mauritius
+Country Name,Morocco,65,False,morocco
+Country Name,Mexico,65,False,mexico
+Country Name,Luxembourg,65,False,luxembourg
+Country Name,Madagascar,65,False,madagascar
+Country Name,Sri Lanka,65,False,sri lanka
+Country Name,St. Kitts and Nevis,65,False,st. kitts and nevis
+Country Name,"Korea, Rep.",65,False,"korea, rep."
+Country Name,Lesotho,65,False,lesotho
+Country Name,Liberia,65,False,liberia
+Country Name,Libya,65,False,libya
+Country Name,Jamaica,65,False,jamaica
+Country Name,Japan,65,False,japan
+Country Name,Kenya,65,False,kenya
+Country Name,Paraguay,65,False,paraguay
+Country Name,Portugal,65,False,portugal
+Country Name,Rwanda,65,False,rwanda
+Country Name,Norway,65,False,norway
+Country Name,Oman,65,False,oman
+Country Name,Pakistan,65,False,pakistan
+Country Name,Panama,65,False,panama
+Country Name,Peru,65,False,peru
+Country Name,Papua New Guinea,65,False,papua new guinea
+Country Name,Philippines,65,False,philippines
+Country Name,Nepal,65,False,nepal
+Country Name,Netherlands,65,False,netherlands
+Country Name,New Zealand,65,False,new zealand
+Country Name,Niger,65,False,niger
+Country Name,Nicaragua,65,False,nicaragua
+Country Name,Nigeria,65,False,nigeria
+Country Name,Myanmar,65,False,myanmar
+Country Name,East Asia & Pacific (IDA & IBRD countries),65,False,east asia & pacific (ida & ibrd countries)
+Country Name,Latin America & the Caribbean (IDA & IBRD countries),65,False,latin america & the caribbean (ida & ibrd countries)
+Country Name,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",65,False,"middle east, north africa, afghanistan & pakistan (ida & ibrd)"
+Country Name,South Asia (IDA & IBRD),65,False,south asia (ida & ibrd)
+Country Name,Sub-Saharan Africa (IDA & IBRD countries),65,False,sub-saharan africa (ida & ibrd countries)
+Country Name,Pre-demographic dividend,65,False,pre-demographic dividend
+Country Name,Puerto Rico (US),65,False,puerto rico (us)
+Country Name,Post-demographic dividend,65,False,post-demographic dividend
+Country Name,South Asia,65,False,south asia
+Country Name,Sub-Saharan Africa (excluding high income),65,False,sub-saharan africa (excluding high income)
+Country Name,Sub-Saharan Africa,65,False,sub-saharan africa
+Country Name,"Middle East, North Africa, Afghanistan & Pakistan",65,False,"middle east, north africa, afghanistan & pakistan"
+Country Name,Middle income,65,False,middle income
+Country Name,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",65,False,"middle east, north africa, afghanistan & pakistan (excluding high income)"
+Country Name,North America,65,False,north america
+Country Name,OECD members,65,False,oecd members
+Country Name,Latin America & Caribbean (excluding high income),65,False,latin america & caribbean (excluding high income)
+Country Name,Latin America & Caribbean,65,False,latin america & caribbean
+Country Name,Least developed countries: UN classification,65,False,least developed countries: un classification
+Country Name,Low income,65,False,low income
+Country Name,Lower middle income,65,False,lower middle income
+Country Name,Low & middle income,65,False,low & middle income
+Country Name,Late-demographic dividend,65,False,late-demographic dividend
+Country Name,Bolivia,65,False,bolivia
+Country Name,Botswana,65,False,botswana
+Country Name,Brazil,65,False,brazil
+Country Name,Central African Republic,65,False,central african republic
+Country Name,Bangladesh,65,False,bangladesh
+Country Name,Benin,65,False,benin
+Country Name,Barbados,65,False,barbados
+Country Name,Burkina Faso,65,False,burkina faso
+Country Name,Belize,65,False,belize
+Country Name,Australia,65,False,australia
+Country Name,Austria,65,False,austria
+Country Name,Burundi,65,False,burundi
+Country Name,Belgium,65,False,belgium
+Country Name,Algeria,65,False,algeria
+Country Name,Argentina,65,False,argentina
+Country Name,"Bahamas, The",64,False,"bahamas, the"
+Country Name,Bermuda,64,False,bermuda
+Country Name,Arab World,64,False,arab world
+Country Name,Tunisia,64,False,tunisia
+Country Name,Mauritania,64,False,mauritania
+Country Name,Kuwait,63,False,kuwait
+Country Name,Syrian Arab Republic,62,False,syrian arab republic
+Country Name,Equatorial Guinea,61,False,equatorial guinea
+Country Name,Jordan,60,False,jordan
+Country Name,El Salvador,60,False,el salvador
+Country Name,Brunei Darussalam,60,False,brunei darussalam
+Country Name,"Gambia, The",59,False,"gambia, the"
+Country Name,Faroe Islands,59,False,faroe islands
+Country Name,New Caledonia,59,False,new caledonia
+Country Name,French Polynesia,59,False,french polynesia
+Country Name,Indonesia,58,False,indonesia
+Country Name,Mali,58,False,mali
+Country Name,Solomon Islands,57,False,solomon islands
+Country Name,Hungary,57,False,hungary
+Country Name,Tuvalu,55,False,tuvalu
+Country Name,"Micronesia, Fed. Sts.",55,False,"micronesia, fed. sts."
+Country Name,Maldives,55,False,maldives
+Country Name,Bhutan,55,False,bhutan
+Country Name,Bahrain,55,False,bahrain
+Country Name,Andorra,55,False,andorra
+Country Name,Palau,55,False,palau
+Country Name,Marshall Islands,55,False,marshall islands
+Country Name,Pacific island small states,55,False,pacific island small states
+Country Name,Guinea,55,False,guinea
+Country Name,Guinea-Bissau,55,False,guinea-bissau
+Country Name,Malta,55,False,malta
+Country Name,Samoa,55,False,samoa
+Country Name,Sao Tome and Principe,55,False,sao tome and principe
+Country Name,Small states,55,False,small states
+Country Name,Kiribati,55,False,kiribati
+Country Name,Qatar,55,False,qatar
+Country Name,Nauru,55,False,nauru
+Country Name,Monaco,54,False,monaco
+Country Name,United Arab Emirates,54,False,united arab emirates
+Country Name,Liechtenstein,54,False,liechtenstein
+Country Name,Greenland,53,False,greenland
+Country Name,Tonga,50,False,tonga
+Country Name,Cambodia,50,False,cambodia
+Country Name,Other small states,50,False,other small states
+Country Name,Cuba,50,False,cuba
+Country Name,Cyprus,50,False,cyprus
+Country Name,Dominica,48,False,dominica
+Country Name,Grenada,48,False,grenada
+Country Name,Antigua and Barbuda,48,False,antigua and barbuda
+Country Name,Vanuatu,46,False,vanuatu
+Country Name,Bulgaria,45,False,bulgaria
+Country Name,Albania,45,False,albania
+Country Name,Namibia,45,False,namibia
+Country Name,Cabo Verde,45,False,cabo verde
+Country Name,Comoros,45,False,comoros
+Country Name,St. Lucia,45,False,st. lucia
+Country Name,Mongolia,45,False,mongolia
+Country Name,Angola,45,False,angola
+Country Name,Malawi,45,False,malawi
+Country Name,"Macao SAR, China",43,False,"macao sar, china"
+Country Name,Lao PDR,41,False,lao pdr
+Country Name,Viet Nam,40,False,viet nam
+Country Name,Isle of Man,39,False,isle of man
+Country Name,Djibouti,39,False,djibouti
+Country Name,Aruba,38,False,aruba
+Country Name,Turkmenistan,38,False,turkmenistan
+Country Name,Georgia,38,False,georgia
+Country Name,Uzbekistan,38,False,uzbekistan
+Country Name,Ukraine,38,False,ukraine
+Country Name,Europe & Central Asia (excluding high income),38,False,europe & central asia (excluding high income)
+Country Name,Romania,38,False,romania
+Country Name,Europe & Central Asia (IDA & IBRD countries),37,False,europe & central asia (ida & ibrd countries)
+Country Name,Russian Federation,37,False,russian federation
+Country Name,Lebanon,36,False,lebanon
+Country Name,Armenia,35,False,armenia
+Country Name,Belarus,35,False,belarus
+Country Name,Moldova,35,False,moldova
+Country Name,Poland,35,False,poland
+Country Name,Azerbaijan,35,False,azerbaijan
+Country Name,Bosnia and Herzegovina,35,False,bosnia and herzegovina
+Country Name,Kyrgyz Republic,35,False,kyrgyz republic
+Country Name,Czechia,35,False,czechia
+Country Name,Timor-Leste,35,False,timor-leste
+Country Name,Kazakhstan,35,False,kazakhstan
+Country Name,Central Europe and the Baltics,35,False,central europe and the baltics
+Country Name,Croatia,35,False,croatia
+Country Name,Tajikistan,35,False,tajikistan
+Country Name,Slovenia,35,False,slovenia
+Country Name,Slovak Republic,35,False,slovak republic
+Country Name,North Macedonia,35,False,north macedonia
+Country Name,Mozambique,34,False,mozambique
+Country Name,Estonia,32,False,estonia
+Country Name,West Bank and Gaza,31,False,west bank and gaza
+Country Name,Serbia,30,False,serbia
+Country Name,Lithuania,30,False,lithuania
+Country Name,Latvia,30,False,latvia
+Country Name,Montenegro,28,False,montenegro
+Country Name,"Yemen, Rep.",28,False,"yemen, rep."
+Country Name,San Marino,26,False,san marino
+Country Name,Channel Islands,24,False,channel islands
+Country Name,Afghanistan,24,False,afghanistan
+Country Name,Curacao,24,False,curacao
+Country Name,Turks and Caicos Islands,23,False,turks and caicos islands
+Country Name,American Samoa,20,False,american samoa
+Country Name,Northern Mariana Islands,20,False,northern mariana islands
+Country Name,Guam,20,False,guam
+Country Name,Virgin Islands (U.S.),20,False,virgin islands (u.s.)
+Country Name,Eritrea,19,False,eritrea
+Country Name,Cayman Islands,18,False,cayman islands
+Country Name,Kosovo,17,False,kosovo
+Country Name,Sint Maarten (Dutch part),16,False,sint maarten (dutch part)
+Country Name,South Sudan,7,False,south sudan
+Country Name,St. Martin (French part),3,False,st. martin (french part)
+Country Code,WLD,65,False,wld
+Country Code,UMC,65,False,umc
+Country Code,HIC,65,False,hic
+Country Code,HPC,65,False,hpc
+Country Code,IBD,65,False,ibd
+Country Code,IBT,65,False,ibt
+Country Code,IDA,65,False,ida
+Country Code,IDB,65,False,idb
+Country Code,IDX,65,False,idx
+Country Code,EAP,65,False,eap
+Country Code,EAR,65,False,ear
+Country Code,EAS,65,False,eas
+Country Code,ECS,65,False,ecs
+Country Code,EMU,65,False,emu
+Country Code,EUU,65,False,euu
+Country Code,ZMB,65,False,zmb
+Country Code,ZWE,65,False,zwe
+Country Code,AFE,65,False,afe
+Country Code,AFW,65,False,afw
+Country Code,CSS,65,False,css
+Country Code,USA,65,False,usa
+Country Code,URY,65,False,ury
+Country Code,VEN,65,False,ven
+Country Code,ECU,65,False,ecu
+Country Code,EGY,65,False,egy
+Country Code,ESP,65,False,esp
+Country Code,ETH,65,False,eth
+Country Code,DNK,65,False,dnk
+Country Code,DEU,65,False,deu
+Country Code,DOM,65,False,dom
+Country Code,TCD,65,False,tcd
+Country Code,COD,65,False,cod
+Country Code,COG,65,False,cog
+Country Code,CRI,65,False,cri
+Country Code,CMR,65,False,cmr
+Country Code,CAN,65,False,can
+Country Code,CHE,65,False,che
+Country Code,CHL,65,False,chl
+Country Code,CHN,65,False,chn
+Country Code,CIV,65,False,civ
+Country Code,COL,65,False,col
+Country Code,ISL,65,False,isl
+Country Code,IND,65,False,ind
+Country Code,IRL,65,False,irl
+Country Code,IRN,65,False,irn
+Country Code,IRQ,65,False,irq
+Country Code,ISR,65,False,isr
+Country Code,ITA,65,False,ita
+Country Code,GTM,65,False,gtm
+Country Code,GUY,65,False,guy
+Country Code,HTI,65,False,hti
+Country Code,HKG,65,False,hkg
+Country Code,HND,65,False,hnd
+Country Code,GBR,65,False,gbr
+Country Code,GHA,65,False,gha
+Country Code,GRC,65,False,grc
+Country Code,FIN,65,False,fin
+Country Code,FJI,65,False,fji
+Country Code,SWZ,65,False,swz
+Country Code,FRA,65,False,fra
+Country Code,GAB,65,False,gab
+Country Code,TZA,65,False,tza
+Country Code,TTO,65,False,tto
+Country Code,TUR,65,False,tur
+Country Code,UGA,65,False,uga
+Country Code,SWE,65,False,swe
+Country Code,ZAF,65,False,zaf
+Country Code,TGO,65,False,tgo
+Country Code,THA,65,False,tha
+Country Code,SOM,65,False,som
+Country Code,SYC,65,False,syc
+Country Code,SUR,65,False,sur
+Country Code,SAU,65,False,sau
+Country Code,SDN,65,False,sdn
+Country Code,SEN,65,False,sen
+Country Code,SGP,65,False,sgp
+Country Code,VCT,65,False,vct
+Country Code,SLE,65,False,sle
+Country Code,MYS,65,False,mys
+Country Code,MUS,65,False,mus
+Country Code,MAR,65,False,mar
+Country Code,MEX,65,False,mex
+Country Code,LUX,65,False,lux
+Country Code,MDG,65,False,mdg
+Country Code,LKA,65,False,lka
+Country Code,KNA,65,False,kna
+Country Code,KOR,65,False,kor
+Country Code,LSO,65,False,lso
+Country Code,LBR,65,False,lbr
+Country Code,LBY,65,False,lby
+Country Code,JAM,65,False,jam
+Country Code,JPN,65,False,jpn
+Country Code,KEN,65,False,ken
+Country Code,PRY,65,False,pry
+Country Code,PRT,65,False,prt
+Country Code,RWA,65,False,rwa
+Country Code,NOR,65,False,nor
+Country Code,OMN,65,False,omn
+Country Code,PAK,65,False,pak
+Country Code,PAN,65,False,pan
+Country Code,PER,65,False,per
+Country Code,PNG,65,False,png
+Country Code,PHL,65,False,phl
+Country Code,NPL,65,False,npl
+Country Code,NLD,65,False,nld
+Country Code,NZL,65,False,nzl
+Country Code,NER,65,False,ner
+Country Code,NIC,65,False,nic
+Country Code,NGA,65,False,nga
+Country Code,MMR,65,False,mmr
+Country Code,TEA,65,False,tea
+Country Code,TLA,65,False,tla
+Country Code,TMN,65,False,tmn
+Country Code,TSA,65,False,tsa
+Country Code,TSS,65,False,tss
+Country Code,PRE,65,False,pre
+Country Code,PRI,65,False,pri
+Country Code,PST,65,False,pst
+Country Code,SAS,65,False,sas
+Country Code,SSA,65,False,ssa
+Country Code,SSF,65,False,ssf
+Country Code,MEA,65,False,mea
+Country Code,MIC,65,False,mic
+Country Code,MNA,65,False,mna
+Country Code,NAC,65,False,nac
+Country Code,OED,65,False,oed
+Country Code,LAC,65,False,lac
+Country Code,LCN,65,False,lcn
+Country Code,LDC,65,False,ldc
+Country Code,LIC,65,False,lic
+Country Code,LMC,65,False,lmc
+Country Code,LMY,65,False,lmy
+Country Code,LTE,65,False,lte
+Country Code,BOL,65,False,bol
+Country Code,BWA,65,False,bwa
+Country Code,BRA,65,False,bra
+Country Code,CAF,65,False,caf
+Country Code,BGD,65,False,bgd
+Country Code,BEN,65,False,ben
+Country Code,BRB,65,False,brb
+Country Code,BFA,65,False,bfa
+Country Code,BLZ,65,False,blz
+Country Code,AUS,65,False,aus
+Country Code,AUT,65,False,aut
+Country Code,BDI,65,False,bdi
+Country Code,BEL,65,False,bel
+Country Code,DZA,65,False,dza
+Country Code,ARG,65,False,arg
+Country Code,BHS,64,False,bhs
+Country Code,BMU,64,False,bmu
+Country Code,ARB,64,False,arb
+Country Code,TUN,64,False,tun
+Country Code,MRT,64,False,mrt
+Country Code,KWT,63,False,kwt
+Country Code,SYR,62,False,syr
+Country Code,GNQ,61,False,gnq
+Country Code,JOR,60,False,jor
+Country Code,SLV,60,False,slv
+Country Code,BRN,60,False,brn
+Country Code,GMB,59,False,gmb
+Country Code,FRO,59,False,fro
+Country Code,NCL,59,False,ncl
+Country Code,PYF,59,False,pyf
+Country Code,IDN,58,False,idn
+Country Code,MLI,58,False,mli
+Country Code,SLB,57,False,slb
+Country Code,HUN,57,False,hun
+Country Code,TUV,55,False,tuv
+Country Code,FSM,55,False,fsm
+Country Code,MDV,55,False,mdv
+Country Code,BTN,55,False,btn
+Country Code,BHR,55,False,bhr
+Country Code,AND,55,False,and
+Country Code,PLW,55,False,plw
+Country Code,MHL,55,False,mhl
+Country Code,PSS,55,False,pss
+Country Code,GIN,55,False,gin
+Country Code,GNB,55,False,gnb
+Country Code,MLT,55,False,mlt
+Country Code,WSM,55,False,wsm
+Country Code,STP,55,False,stp
+Country Code,SST,55,False,sst
+Country Code,KIR,55,False,kir
+Country Code,QAT,55,False,qat
+Country Code,NRU,55,False,nru
+Country Code,MCO,54,False,mco
+Country Code,ARE,54,False,are
+Country Code,LIE,54,False,lie
+Country Code,GRL,53,False,grl
+Country Code,TON,50,False,ton
+Country Code,KHM,50,False,khm
+Country Code,OSS,50,False,oss
+Country Code,CUB,50,False,cub
+Country Code,CYP,50,False,cyp
+Country Code,DMA,48,False,dma
+Country Code,GRD,48,False,grd
+Country Code,ATG,48,False,atg
+Country Code,VUT,46,False,vut
+Country Code,BGR,45,False,bgr
+Country Code,ALB,45,False,alb
+Country Code,NAM,45,False,nam
+Country Code,CPV,45,False,cpv
+Country Code,COM,45,False,com
+Country Code,LCA,45,False,lca
+Country Code,MNG,45,False,mng
+Country Code,AGO,45,False,ago
+Country Code,MWI,45,False,mwi
+Country Code,MAC,43,False,mac
+Country Code,LAO,41,False,lao
+Country Code,VNM,40,False,vnm
+Country Code,IMN,39,False,imn
+Country Code,DJI,39,False,dji
+Country Code,ABW,38,False,abw
+Country Code,TKM,38,False,tkm
+Country Code,GEO,38,False,geo
+Country Code,UZB,38,False,uzb
+Country Code,UKR,38,False,ukr
+Country Code,ECA,38,False,eca
+Country Code,ROU,38,False,rou
+Country Code,TEC,37,False,tec
+Country Code,RUS,37,False,rus
+Country Code,LBN,36,False,lbn
+Country Code,ARM,35,False,arm
+Country Code,BLR,35,False,blr
+Country Code,MDA,35,False,mda
+Country Code,POL,35,False,pol
+Country Code,AZE,35,False,aze
+Country Code,BIH,35,False,bih
+Country Code,KGZ,35,False,kgz
+Country Code,CZE,35,False,cze
+Country Code,TLS,35,False,tls
+Country Code,KAZ,35,False,kaz
+Country Code,CEB,35,False,ceb
+Country Code,HRV,35,False,hrv
+Country Code,TJK,35,False,tjk
+Country Code,SVN,35,False,svn
+Country Code,SVK,35,False,svk
+Country Code,MKD,35,False,mkd
+Country Code,MOZ,34,False,moz
+Country Code,EST,32,False,est
+Country Code,PSE,31,False,pse
+Country Code,SRB,30,False,srb
+Country Code,LTU,30,False,ltu
+Country Code,LVA,30,False,lva
+Country Code,MNE,28,False,mne
+Country Code,YEM,28,False,yem
+Country Code,SMR,26,False,smr
+Country Code,CHI,24,False,chi
+Country Code,AFG,24,False,afg
+Country Code,CUW,24,False,cuw
+Country Code,TCA,23,False,tca
+Country Code,ASM,20,False,asm
+Country Code,MNP,20,False,mnp
+Country Code,GUM,20,False,gum
+Country Code,VIR,20,False,vir
+Country Code,ERI,19,False,eri
+Country Code,CYM,18,False,cym
+Country Code,XKX,17,False,xkx
+Country Code,SXM,16,False,sxm
+Country Code,SSD,7,False,ssd
+Country Code,MAF,3,False,maf
+Region,Sub-Saharan Africa,2837,False,sub-saharan africa
+Region,Europe & Central Asia,2680,False,europe & central asia
+Region,Latin America & Caribbean,2260,False,latin america & caribbean
+Region,East Asia & Pacific,1933,False,east asia & pacific
+Region,Middle East & North Africa,1276,False,middle east & north africa
+Region,South Asia,370,False,south asia
+Region,North America,194,False,north america
+IncomeGroup,High income,4384,False,high income
+IncomeGroup,Upper middle income,3184,False,upper middle income
+IncomeGroup,Lower middle income,2681,False,lower middle income
+IncomeGroup,Low income,1301,False,low income
+Decoupling Status,Weak Decoupling,3018,False,weak decoupling
+Decoupling Status,Strong Decoupling,2136,False,strong decoupling
+Decoupling Status,Negative Decoupling,1983,False,negative decoupling
+Decoupling Status,No Decoupling,1657,False,no decoupling
