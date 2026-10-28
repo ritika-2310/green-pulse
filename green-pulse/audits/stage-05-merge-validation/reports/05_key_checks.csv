@@ -1,5 +1,0 @@
-check,result,count
-missing_values:Country Code,PASS,0
-missing_values:Year,PASS,0
-missing_values:Country Name,PASS,0
-duplicate_country_code_year,PASS,0
