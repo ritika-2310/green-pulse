@@ -1,0 +1,27 @@
+column,provisional_meaning,unit_to_verify,pandas_dtype,provisional_role,audit_notes
+Country Name,Name of the country or entity represented by the row.,Text,object,Identifier,Includes aggregate entities as well as countries; distinguish these in analysis.
+Country Code,Code identifying the country or entity.,Text/code,object,Identifier,Confirm code standard and aggregate codes against source metadata.
+Year,Year associated with the observation.,Calendar year (assumed),int64,Time index,Integer year; each row is intended to represent an entity-year.
+GDP,"Gross domestic product, an indicator of economic output.",Unknown from workbook alone,float64,Economic measure,"Must verify currency, price basis, scale and source before interpreting growth."
+Inflation,Inflation rate or price-level change indicator.,Likely percent; verify,float64,Economic measure,Confirm exact definition and whether annual percentage change.
+Trade,Trade-related indicator.,Likely percent of GDP; verify,float64,Economic measure,Could represent trade as a share of GDP; verify source definition.
+Region,Geographic region classification.,Category,object,Grouping variable,Missing for some aggregate entities may be expected.
+IncomeGroup,Income-group classification.,Category,object,Grouping variable,Confirm classification scheme and year; missing for aggregates may be expected.
+population,Population associated with the entity and year.,People; verify source,float64,Demographic measure,"Check whether source uses persons, thousands, or another scale."
+carbon_intensity_elec,Carbon intensity of electricity generation/use.,Unknown; likely emissions per unit electricity,float64,Energy/environment measure,Confirm unit and whether generation- or consumption-based.
+electricity_demand,Electricity demand or consumption measure.,Unknown,float64,Energy measure,Verify unit and exact concept; do not assume it equals generation.
+electricity_generation,Electricity generated.,Unknown,float64,Energy measure,Verify unit and whether values are total generation or another measure.
+energy_per_capita,Energy use per person.,Unknown,float64,Energy measure,Verify energy unit and population basis.
+energy_per_gdp,Energy use relative to economic output.,Unknown,float64,Energy/economic intensity,"Verify numerator, GDP basis, units and direction of indicator."
+fossil_share_elec,Share of electricity associated with fossil fuels.,Likely percent; verify,float64,Energy mix measure,Check expected range and source definition.
+fossil_share_energy,Share of energy associated with fossil fuels.,Likely percent; verify,float64,Energy mix measure,Check expected range and source definition.
+greenhouse_gas_emissions,Greenhouse-gas emissions measure.,Unknown,float64,Emissions measure,"Verify gases included, units, scale and whether per capita/intensity/total."
+low_carbon_share_elec,Share of electricity from low-carbon sources.,Likely percent; verify,float64,Energy mix measure,Confirm low-carbon definition and source.
+low_carbon_share_energy,Share of energy from low-carbon sources.,Likely percent; verify,float64,Energy mix measure,Confirm low-carbon definition and source.
+Annual CO2 emissions,Annual carbon-dioxide emissions.,Unknown; possibly tonnes,float64,Emissions measure,"Verify unit, gases, territorial/accounting basis and source."
+CO2 emissions per capita,CO2 emissions divided by population.,Unknown; possibly tonnes/person,float64,Emissions intensity measure,Verify units and whether values were computed or sourced.
+Share of global annual CO₂ emissions,Entity's share of global annual CO2 emissions.,Fraction or percent; verify,float64,Emissions share measure,Observed values look fractional in sample; verify whether 0.01 means 1%.
+GDP Growth (%),"Percentage change in GDP between periods, or a sourced growth indicator.",Percent,float64,Derived or sourced indicator,Formula/source not yet confirmed; validate first-year and gap handling in Stage 06.
+CO2 Growth (%),"Percentage change in CO2 emissions between periods, or a sourced growth indicator.",Percent,float64,Derived or sourced indicator,"Formula/source not yet confirmed; validate year gaps, zeros and first-year values in Stage 06."
+Decoupling Status,Category describing the relationship between economic growth and emissions change.,Category,object,Derived indicator,Exact decision rules are unknown; document and independently validate before use.
+Transition Risk Score,A score intended to represent transition-related risk.,Unknown scale,float64,Derived indicator,"Definition, inputs, weighting and interpretation are unknown; do not treat as validated yet."

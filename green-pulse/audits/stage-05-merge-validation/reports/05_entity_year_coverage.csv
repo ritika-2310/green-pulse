@@ -1,0 +1,262 @@
+Country Code,Country Name,first_year,last_year,observed_years,expected_years_in_span,missing_years_inside_span,continuous_inside_span
+ABW,Aruba,1987,2024,38,38,0,True
+AFE,Africa Eastern and Southern,1961,2025,65,65,0,True
+AFG,Afghanistan,2001,2024,24,24,0,True
+AFW,Africa Western and Central,1961,2025,65,65,0,True
+AGO,Angola,1981,2025,45,45,0,True
+ALB,Albania,1981,2025,45,45,0,True
+AND,Andorra,1971,2025,55,55,0,True
+ARB,Arab World,1962,2025,64,64,0,True
+ARE,United Arab Emirates,1971,2024,54,54,0,True
+ARG,Argentina,1961,2025,65,65,0,True
+ARM,Armenia,1991,2025,35,35,0,True
+ASM,American Samoa,2003,2022,20,20,0,True
+ATG,Antigua and Barbuda,1978,2025,48,48,0,True
+AUS,Australia,1961,2025,65,65,0,True
+AUT,Austria,1961,2025,65,65,0,True
+AZE,Azerbaijan,1991,2025,35,35,0,True
+BDI,Burundi,1961,2025,65,65,0,True
+BEL,Belgium,1961,2025,65,65,0,True
+BEN,Benin,1961,2025,65,65,0,True
+BFA,Burkina Faso,1961,2025,65,65,0,True
+BGD,Bangladesh,1961,2025,65,65,0,True
+BGR,Bulgaria,1981,2025,45,45,0,True
+BHR,Bahrain,1971,2025,55,55,0,True
+BHS,"Bahamas, The",1961,2024,64,64,0,True
+BIH,Bosnia and Herzegovina,1991,2025,35,35,0,True
+BLR,Belarus,1991,2025,35,35,0,True
+BLZ,Belize,1961,2025,65,65,0,True
+BMU,Bermuda,1961,2024,64,64,0,True
+BOL,Bolivia,1961,2025,65,65,0,True
+BRA,Brazil,1961,2025,65,65,0,True
+BRB,Barbados,1961,2025,65,65,0,True
+BRN,Brunei Darussalam,1966,2025,60,60,0,True
+BTN,Bhutan,1971,2025,55,55,0,True
+BWA,Botswana,1961,2025,65,65,0,True
+CAF,Central African Republic,1961,2025,65,65,0,True
+CAN,Canada,1961,2025,65,65,0,True
+CEB,Central Europe and the Baltics,1991,2025,35,35,0,True
+CHE,Switzerland,1961,2025,65,65,0,True
+CHI,Channel Islands,1999,2023,24,25,1,False
+CHL,Chile,1961,2025,65,65,0,True
+CHN,China,1961,2025,65,65,0,True
+CIV,Cote d'Ivoire,1961,2025,65,65,0,True
+CMR,Cameroon,1961,2025,65,65,0,True
+COD,"Congo, Dem. Rep.",1961,2025,65,65,0,True
+COG,"Congo, Rep.",1961,2025,65,65,0,True
+COL,Colombia,1961,2025,65,65,0,True
+COM,Comoros,1981,2025,45,45,0,True
+CPV,Cabo Verde,1981,2025,45,45,0,True
+CRI,Costa Rica,1961,2025,65,65,0,True
+CSS,Caribbean small states,1961,2025,65,65,0,True
+CUB,Cuba,1971,2020,50,50,0,True
+CUW,Curacao,2001,2024,24,24,0,True
+CYM,Cayman Islands,2007,2024,18,18,0,True
+CYP,Cyprus,1976,2025,50,50,0,True
+CZE,Czechia,1991,2025,35,35,0,True
+DEU,Germany,1961,2025,65,65,0,True
+DJI,Djibouti,1987,2025,39,39,0,True
+DMA,Dominica,1978,2025,48,48,0,True
+DNK,Denmark,1961,2025,65,65,0,True
+DOM,Dominican Republic,1961,2025,65,65,0,True
+DZA,Algeria,1961,2025,65,65,0,True
+EAP,East Asia & Pacific (excluding high income),1961,2025,65,65,0,True
+EAR,Early-demographic dividend,1961,2025,65,65,0,True
+EAS,East Asia & Pacific,1961,2025,65,65,0,True
+ECA,Europe & Central Asia (excluding high income),1988,2025,38,38,0,True
+ECS,Europe & Central Asia,1961,2025,65,65,0,True
+ECU,Ecuador,1961,2025,65,65,0,True
+EGY,"Egypt, Arab Rep.",1961,2025,65,65,0,True
+EMU,Euro area,1961,2025,65,65,0,True
+ERI,Eritrea,1993,2011,19,19,0,True
+ESP,Spain,1961,2025,65,65,0,True
+EST,Estonia,1994,2025,32,32,0,True
+ETH,Ethiopia,1961,2025,65,65,0,True
+EUU,European Union,1961,2025,65,65,0,True
+FIN,Finland,1961,2025,65,65,0,True
+FJI,Fiji,1961,2025,65,65,0,True
+FRA,France,1961,2025,65,65,0,True
+FRO,Faroe Islands,1966,2024,59,59,0,True
+FSM,"Micronesia, Fed. Sts.",1971,2025,55,55,0,True
+GAB,Gabon,1961,2025,65,65,0,True
+GBR,United Kingdom,1961,2025,65,65,0,True
+GEO,Georgia,1988,2025,38,38,0,True
+GHA,Ghana,1961,2025,65,65,0,True
+GIN,Guinea,1971,2025,55,55,0,True
+GMB,"Gambia, The",1967,2025,59,59,0,True
+GNB,Guinea-Bissau,1971,2025,55,55,0,True
+GNQ,Equatorial Guinea,1963,2025,61,63,2,False
+GRC,Greece,1961,2025,65,65,0,True
+GRD,Grenada,1978,2025,48,48,0,True
+GRL,Greenland,1971,2023,53,53,0,True
+GTM,Guatemala,1961,2025,65,65,0,True
+GUM,Guam,2003,2022,20,20,0,True
+GUY,Guyana,1961,2025,65,65,0,True
+HIC,High income,1961,2025,65,65,0,True
+HKG,"Hong Kong SAR, China",1961,2025,65,65,0,True
+HND,Honduras,1961,2025,65,65,0,True
+HPC,Heavily indebted poor countries (HIPC),1961,2025,65,65,0,True
+HRV,Croatia,1991,2025,35,35,0,True
+HTI,Haiti,1961,2025,65,65,0,True
+HUN,Hungary,1969,2025,57,57,0,True
+IBD,IBRD only,1961,2025,65,65,0,True
+IBT,IDA & IBRD total,1961,2025,65,65,0,True
+IDA,IDA total,1961,2025,65,65,0,True
+IDB,IDA blend,1961,2025,65,65,0,True
+IDN,Indonesia,1968,2025,58,58,0,True
+IDX,IDA only,1961,2025,65,65,0,True
+IMN,Isle of Man,1985,2023,39,39,0,True
+IND,India,1961,2025,65,65,0,True
+IRL,Ireland,1961,2025,65,65,0,True
+IRN,"Iran, Islamic Rep.",1961,2025,65,65,0,True
+IRQ,Iraq,1961,2025,65,65,0,True
+ISL,Iceland,1961,2025,65,65,0,True
+ISR,Israel,1961,2025,65,65,0,True
+ITA,Italy,1961,2025,65,65,0,True
+JAM,Jamaica,1961,2025,65,65,0,True
+JOR,Jordan,1966,2025,60,60,0,True
+JPN,Japan,1961,2025,65,65,0,True
+KAZ,Kazakhstan,1991,2025,35,35,0,True
+KEN,Kenya,1961,2025,65,65,0,True
+KGZ,Kyrgyz Republic,1991,2025,35,35,0,True
+KHM,Cambodia,1976,2025,50,50,0,True
+KIR,Kiribati,1971,2025,55,55,0,True
+KNA,St. Kitts and Nevis,1961,2025,65,65,0,True
+KOR,"Korea, Rep.",1961,2025,65,65,0,True
+KWT,Kuwait,1963,2025,63,63,0,True
+LAC,Latin America & Caribbean (excluding high income),1961,2025,65,65,0,True
+LAO,Lao PDR,1985,2025,41,41,0,True
+LBN,Lebanon,1989,2024,36,36,0,True
+LBR,Liberia,1961,2025,65,65,0,True
+LBY,Libya,1961,2025,65,65,0,True
+LCA,St. Lucia,1981,2025,45,45,0,True
+LCN,Latin America & Caribbean,1961,2025,65,65,0,True
+LDC,Least developed countries: UN classification,1961,2025,65,65,0,True
+LIC,Low income,1961,2025,65,65,0,True
+LIE,Liechtenstein,1971,2024,54,54,0,True
+LKA,Sri Lanka,1961,2025,65,65,0,True
+LMC,Lower middle income,1961,2025,65,65,0,True
+LMY,Low & middle income,1961,2025,65,65,0,True
+LSO,Lesotho,1961,2025,65,65,0,True
+LTE,Late-demographic dividend,1961,2025,65,65,0,True
+LTU,Lithuania,1996,2025,30,30,0,True
+LUX,Luxembourg,1961,2025,65,65,0,True
+LVA,Latvia,1996,2025,30,30,0,True
+MAC,"Macao SAR, China",1983,2025,43,43,0,True
+MAF,St. Martin (French part),2014,2021,3,8,5,False
+MAR,Morocco,1961,2025,65,65,0,True
+MCO,Monaco,1971,2024,54,54,0,True
+MDA,Moldova,1991,2025,35,35,0,True
+MDG,Madagascar,1961,2025,65,65,0,True
+MDV,Maldives,1971,2025,55,55,0,True
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",1961,2025,65,65,0,True
+MEX,Mexico,1961,2025,65,65,0,True
+MHL,Marshall Islands,1971,2025,55,55,0,True
+MIC,Middle income,1961,2025,65,65,0,True
+MKD,North Macedonia,1991,2025,35,35,0,True
+MLI,Mali,1968,2025,58,58,0,True
+MLT,Malta,1971,2025,55,55,0,True
+MMR,Myanmar,1961,2025,65,65,0,True
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",1961,2025,65,65,0,True
+MNE,Montenegro,1998,2025,28,28,0,True
+MNG,Mongolia,1981,2025,45,45,0,True
+MNP,Northern Mariana Islands,2003,2022,20,20,0,True
+MOZ,Mozambique,1992,2025,34,34,0,True
+MRT,Mauritania,1962,2025,64,64,0,True
+MUS,Mauritius,1961,2025,65,65,0,True
+MWI,Malawi,1981,2025,45,45,0,True
+MYS,Malaysia,1961,2025,65,65,0,True
+NAC,North America,1961,2025,65,65,0,True
+NAM,Namibia,1981,2025,45,45,0,True
+NCL,New Caledonia,1966,2024,59,59,0,True
+NER,Niger,1961,2025,65,65,0,True
+NGA,Nigeria,1961,2025,65,65,0,True
+NIC,Nicaragua,1961,2025,65,65,0,True
+NLD,Netherlands,1961,2025,65,65,0,True
+NOR,Norway,1961,2025,65,65,0,True
+NPL,Nepal,1961,2025,65,65,0,True
+NRU,Nauru,1971,2025,55,55,0,True
+NZL,New Zealand,1961,2025,65,65,0,True
+OED,OECD members,1961,2025,65,65,0,True
+OMN,Oman,1961,2025,65,65,0,True
+OSS,Other small states,1976,2025,50,50,0,True
+PAK,Pakistan,1961,2025,65,65,0,True
+PAN,Panama,1961,2025,65,65,0,True
+PER,Peru,1961,2025,65,65,0,True
+PHL,Philippines,1961,2025,65,65,0,True
+PLW,Palau,1971,2025,55,55,0,True
+PNG,Papua New Guinea,1961,2025,65,65,0,True
+POL,Poland,1991,2025,35,35,0,True
+PRE,Pre-demographic dividend,1961,2025,65,65,0,True
+PRI,Puerto Rico (US),1961,2025,65,65,0,True
+PRT,Portugal,1961,2025,65,65,0,True
+PRY,Paraguay,1961,2025,65,65,0,True
+PSE,West Bank and Gaza,1995,2025,31,31,0,True
+PSS,Pacific island small states,1971,2025,55,55,0,True
+PST,Post-demographic dividend,1961,2025,65,65,0,True
+PYF,French Polynesia,1966,2024,59,59,0,True
+QAT,Qatar,1971,2025,55,55,0,True
+ROU,Romania,1988,2025,38,38,0,True
+RUS,Russian Federation,1989,2025,37,37,0,True
+RWA,Rwanda,1961,2025,65,65,0,True
+SAS,South Asia,1961,2025,65,65,0,True
+SAU,Saudi Arabia,1961,2025,65,65,0,True
+SDN,Sudan,1961,2025,65,65,0,True
+SEN,Senegal,1961,2025,65,65,0,True
+SGP,Singapore,1961,2025,65,65,0,True
+SLB,Solomon Islands,1968,2025,57,58,1,False
+SLE,Sierra Leone,1961,2025,65,65,0,True
+SLV,El Salvador,1966,2025,60,60,0,True
+SMR,San Marino,1998,2023,26,26,0,True
+SOM,"Somalia, Fed. Rep.",1961,2025,65,65,0,True
+SRB,Serbia,1996,2025,30,30,0,True
+SSA,Sub-Saharan Africa (excluding high income),1961,2025,65,65,0,True
+SSD,South Sudan,2009,2015,7,7,0,True
+SSF,Sub-Saharan Africa,1961,2025,65,65,0,True
+SST,Small states,1971,2025,55,55,0,True
+STP,Sao Tome and Principe,1971,2025,55,55,0,True
+SUR,Suriname,1961,2025,65,65,0,True
+SVK,Slovak Republic,1991,2025,35,35,0,True
+SVN,Slovenia,1991,2025,35,35,0,True
+SWE,Sweden,1961,2025,65,65,0,True
+SWZ,Eswatini,1961,2025,65,65,0,True
+SXM,Sint Maarten (Dutch part),2010,2025,16,16,0,True
+SYC,Seychelles,1961,2025,65,65,0,True
+SYR,Syrian Arab Republic,1961,2022,62,62,0,True
+TCA,Turks and Caicos Islands,2002,2024,23,23,0,True
+TCD,Chad,1961,2025,65,65,0,True
+TEA,East Asia & Pacific (IDA & IBRD countries),1961,2025,65,65,0,True
+TEC,Europe & Central Asia (IDA & IBRD countries),1989,2025,37,37,0,True
+TGO,Togo,1961,2025,65,65,0,True
+THA,Thailand,1961,2025,65,65,0,True
+TJK,Tajikistan,1991,2025,35,35,0,True
+TKM,Turkmenistan,1988,2025,38,38,0,True
+TLA,Latin America & the Caribbean (IDA & IBRD countries),1961,2025,65,65,0,True
+TLS,Timor-Leste,1991,2025,35,35,0,True
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",1961,2025,65,65,0,True
+TON,Tonga,1976,2025,50,50,0,True
+TSA,South Asia (IDA & IBRD),1961,2025,65,65,0,True
+TSS,Sub-Saharan Africa (IDA & IBRD countries),1961,2025,65,65,0,True
+TTO,Trinidad and Tobago,1961,2025,65,65,0,True
+TUN,Tunisia,1962,2025,64,64,0,True
+TUR,Turkiye,1961,2025,65,65,0,True
+TUV,Tuvalu,1971,2025,55,55,0,True
+TZA,Tanzania,1961,2025,65,65,0,True
+UGA,Uganda,1961,2025,65,65,0,True
+UKR,Ukraine,1988,2025,38,38,0,True
+UMC,Upper middle income,1961,2025,65,65,0,True
+URY,Uruguay,1961,2025,65,65,0,True
+USA,United States,1961,2025,65,65,0,True
+UZB,Uzbekistan,1988,2025,38,38,0,True
+VCT,St. Vincent and the Grenadines,1961,2025,65,65,0,True
+VEN,"Venezuela, RB",1961,2025,65,65,0,True
+VIR,Virgin Islands (U.S.),2003,2022,20,20,0,True
+VNM,Viet Nam,1986,2025,40,40,0,True
+VUT,Vanuatu,1980,2025,46,46,0,True
+WLD,World,1961,2025,65,65,0,True
+WSM,Samoa,1971,2025,55,55,0,True
+XKX,Kosovo,2009,2025,17,17,0,True
+YEM,"Yemen, Rep.",1991,2018,28,28,0,True
+ZAF,South Africa,1961,2025,65,65,0,True
+ZMB,Zambia,1961,2025,65,65,0,True
+ZWE,Zimbabwe,1961,2025,65,65,0,True
