@@ -7,13 +7,11 @@ A data science project for auditing a master country-year dataset, validating it
 - `app.py` — Streamlit dashboard.
 - `data/raw/master excel.xlsx` — the single shared source workbook used by the dashboard and audit scripts.
 - `audits/stage-01-workbook-inventory/` — workbook inventory script and report.
-- `audits/stage-02-column-semantics/` — available column-semantics reports; the source script still needs to be added from the original Stage 2 folder.
+- `audits/stage-02-column-semantics/` — available column-semantics reports;
 - `audits/stage-03-data-quality/` — data-quality audit script and available reports.
 - `audits/stage-04-missingness/` — missingness audit script and reports.
 - `audits/stage-05-merge-validation/` — key and structural validation script and reports.
 - `audits/stage-06-derived-variable-validation/` — derived-variable validation script and reports.
-
-Earlier-stage copies of scripts, reports, and the workbook were not kept repeatedly in every stage folder. The unique stage outputs are kept with their stage; the master workbook is stored once. See `REPOSITORY_GAPS.md` for items not present in the uploaded archives.
 
 ## Setup
 
