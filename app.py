@@ -214,7 +214,7 @@ elif page == "3. Environmental Drivers & Risk Model":
     ml_df = filtered_df.dropna(subset=ml_features + [target_col]).copy()
     
     if len(ml_df) > 20:
-        with st.spinner("🌲 Training Random Forest Regressor & evaluating accuracy..."):
+        with st.spinner("🌲 Training Random Forest Regressor & evaluating accuracy"):
             X = ml_df[ml_features]
             y = ml_df[target_col]
             
@@ -252,7 +252,7 @@ elif page == "4. Head-to-Head & What-If Simulator 🚀":
     
     tab1, tab2, tab3, tab4 = st.tabs([
         "Head-to-Head Country Comparison", 
-        "Question C: Energy Use vs CO2 per Capita",
+        "Energy Use vs CO2 per Capita",
         "Interactive Risk Simulator (ML)", 
         "🔮 2030 / 2050 Net-Zero Future Projection"
     ])
@@ -372,7 +372,7 @@ elif page == "5. Global Leaderboard & Heatmap 🏆":
     tab_lb, tab_hm = st.tabs(["Global Leaderboard", "Correlation Heatmap"])
     
     with tab_lb:
-        st.subheader("📊 Interactive Country Rankings (RQ3 Analysis)")
+        st.subheader("📊 Interactive Country Rankings")
         metric_choice = st.selectbox("Rank countries based on:", [
             "Transition Risk Score (Lowest Risk = Best)", 
             "GDP Growth (%)", 
